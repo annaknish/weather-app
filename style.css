@@ -1,0 +1,115 @@
+body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgba(216, 241, 230, 0.46) 0.1%,
+    rgba(233, 226, 226, 0.28) 90.1%
+  );
+  margin: 0;
+}
+img {
+  position: absolute;
+  top: 80px;
+  margin-left: 100px;
+}
+.bl {
+  margin-top: 155px;
+  margin-right: 100px;
+}
+
+ul {
+  list-style: none;
+  text-align: right;
+  font-family: Google Sans, arial, sans-serif;
+}
+li {
+  display: inline-block;
+  position: static;
+  margin-top: 115px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline !important;
+  cursor: pointer;
+}
+a {
+  color: #00325b !important;
+  text-decoration: none !important;
+}
+
+hr {
+  width: 50% !important;
+  margin-left: 320px !important;
+}
+h1 {
+  margin-left: 100px;
+  font-weight: bolder !important;
+}
+h2 {
+  font-size: 45px !important;
+  font-weight: bolder !important;
+}
+.temp {
+  text-align: right;
+  margin-right: 200px;
+  font-family: Google Sans, arial, sans-serif;
+}
+.city {
+  text-align: left;
+  font-family: Google Sans, arial, sans-serif;
+}
+span {
+  color: violet;
+  font-weight: bold;
+}
+p {
+  color: #0a9ade;
+  font-family: Google Sans, arial, sans-serif;
+  margin-left: 100px;
+}
+.head {
+  text-align: center;
+}
+.col {
+  padding-top: 30px;
+}
+.row {
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 20px;
+  font-family: Google Sans, arial, sans-serif;
+}
+.emoji {
+  font-size: 30px;
+}
+.Knysh {
+  text-align: center;
+  font-size: 14px;
+  opacity: 0.7;
+  font-family: monospace;
+  top: 700px;
+  margin-top: 40px;
+}
+
+.border {
+  border: 1px solid #0d6efd;
+  padding: 5px;
+  margin: 5px;
+  max-width: 1000px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.searchButton {
+  margin-right: 20px;
+  margin-left: 15px;
+}
+
+.currentButton {
+  background-color: #28a745 !important;
+  border-color: #28a745 !important;
+}
+.units {
+  position: relative;
+  top: -34px;
+}
