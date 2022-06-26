@@ -26,15 +26,16 @@ li {
   position: static;
   margin-top: 115px;
   margin-right: 50px;
+}
+li a {
   font-weight: bold;
-  color: #00325b !important;
+  color: #00325b;
   text-decoration: none;
 }
-li:hover {
-  text-decoration: underline !important;
+li a:hover {
+  text-decoration: underline;
   cursor: pointer;
 }
-
 hr {
   width: 50% !important;
   margin-left: 320px !important;
